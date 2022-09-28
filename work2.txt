@@ -1,0 +1,5 @@
+x=random.randint(1,100)
+s=x
+while s>10:
+	print("Hello")
+	s=s//10
